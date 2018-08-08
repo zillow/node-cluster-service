@@ -1,5 +1,5 @@
 {
-  "name": "cluster-service",
+  "name": "@zillow/cluster-service",
   "version": "2.1.1",
   "author": {
     "name": "Aaron Silvas",
